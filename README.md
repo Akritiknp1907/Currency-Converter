@@ -25,7 +25,7 @@ A modern and responsive **Currency Converter** web application built with **Reac
 ---
 
 ## 📸 Screenshot
-(./public/image.png)
+![App Screenshot](./public/image.png)
   
 
 ---
